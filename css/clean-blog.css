@@ -12,7 +12,7 @@ body {
 
 p {
     line-height: 1.5;
-    margin: 30px 0;
+    margin: 10px 0;
 }
 
 p a {
@@ -406,23 +406,28 @@ footer .copyright {
 
 #interpolation-image-wrapper {
   width: 100%;
-  text-align: left;
+  text-align: center;
 }
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
 #interpolation-audio-wrapper {
-  text-align: left;
+  text-align: center;
 }
 #horizontal-slider {
 	width: 60%;
 }
 #horizontal-slider-wrapper {
-	text-align: left;
+	text-align: center;
 }
 #vertical-slider {
 	width: 60%;
 }
 #vertical-slider-wrapper {
 	text-align: center;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #333;
 }
